@@ -1,0 +1,15 @@
+{
+  "name": "practica_c",
+  "version": "1.0.0",
+  "description": "este es un proyecto de software segundo C",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "author": "Etd. Kevin Calderon S.",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^5.0.4"
+  }
+}
